@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "physics",
+      "email": "gouravprajapati47@gmail.com",
+      "phone": "7525864521"
+    },
+    {
+      "id": "3",
+      "name": "XZXZXasa",
+      "email": "anshu@gmail.com",
+      "phone": "9898989898"
+    },
+    {
+      "id": "4",
+      "name": "assd",
+      "email": "santosh@gmail.com",
+      "phone": "9898989898"
+    },
+    {
+      "id": "5",
+      "name": "assd",
+      "email": "ankit@gmail.com",
+      "phone": "9898989898"
+    },
+    {
+      "id": "6",
+      "name": "asdfghj",
+      "email": "santosh@gmail.com",
+      "phone": "7525864521"
+    },
+    {
+      "id": "7",
+      "name": "XZXZX",
+      "email": "ankit@gmail.com",
+      "phone": "9898989898"
+    },
+    {
+      "id": "6f4d",
+      "name": "ankit",
+      "email": "ankit@gmail.com",
+      "phone": "7536087177"
+    }
+  ]
+}
